@@ -1,0 +1,18 @@
+.container-main{
+    height: 100vh;
+    display: flex;
+    background-image: linear-gradient(180deg,rgba(20, 30, 138, 0.88),rgba(46,47,58,.88)),url("../img/background.jpg");
+    background-position: 0 0,0 50%;
+    background-size: auto,cover;
+    background-repeat: repeat,no-repeat;
+    max-width: inherit;
+    text-align: center;
+    color: aliceblue;
+}
+.main-info{
+    position: relative;
+    color: aliceblue;
+    text-align: center;
+    top: 28%;
+    max-height: fit-content;
+}
